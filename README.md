@@ -19,7 +19,7 @@ To build an interactive Power BI dashboard that analyzes key financial KPIs acro
 - What is the impact of discounts on profitability?
 - How does performance vary by year and month?
 - Are high unit sales translating into higher profit?
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Modeling
@@ -27,4 +27,6 @@ To build an interactive Power BI dashboard that analyzes key financial KPIs acro
 
 - Dashboard interaction <a href="https://github.com/Sateeshkumar4425/Powerbi-financial-performance-dashboard/blob/main/PBI.png"> View Dashboard </a>
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
+
+https://github.com/Sateeshkumar4425/Powerbi-financial-performance-dashboard/blob/main/PBI.png
