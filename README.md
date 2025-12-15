@@ -24,6 +24,16 @@ To build an interactive Power BI dashboard that analyzes key financial KPIs acro
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Data Visualization
+## Process
+- Data understanding and preparation
+- KPI identification and modeling
+- Dashboard design and visualization
+- Interactive analysis and insight generation
+ ## How to Use
+1. Download the `.pbix` file
+2. Open it using **Power BI Desktop**
+3. Use slicers (Year, Month, Country, Segment) to explore insights interactively
+
 
 - Dashboard interaction <a href="https://github.com/Sateeshkumar4425/Powerbi-financial-performance-dashboard/blob/main/PBI.png"> View Dashboard </a>
 
