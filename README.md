@@ -41,3 +41,9 @@ To build an interactive Power BI dashboard that analyzes key financial KPIs acro
 
  <img width="896" height="495" alt="PBI" src="https://github.com/user-attachments/assets/b02d3286-1c8a-4fe6-a117-e5e237379016" />
 
+##  Author
+**Patlegar Sateesh Kumar**  
+GitHub: https://github.com/Sateeshkumar4425  
+LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/
+
+
